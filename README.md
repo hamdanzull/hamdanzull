@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![](https://komarev.com/ghpvc/?username=hamdanzull&label=HAS+BEEN+VISITED&style=flat-square&color=blueviolet)
-<!---
-hamdanzull/hamdanzull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- HIT COUNTER --->
+<!--- ![](https://komarev.com/ghpvc/?username=hamdanzull&label=HAS+BEEN+VISITED&style=flat-square&color=blueviolet) --->
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhamdanzull&count_bg=%2318BC9C&title_bg=%23777777&icon=ghostery.svg&icon_color=%23FFFFFF&title=HAS+BEEN+VISITED&edge_flat=true)
